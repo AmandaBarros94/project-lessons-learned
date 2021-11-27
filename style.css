@@ -12,7 +12,7 @@ body {
 }
 
 #cabecalho {
-  position:fixed;
+  position: fixed;
   top: 0;
   background-color: orange;
   width: 100vw;
@@ -20,7 +20,7 @@ body {
 
 #minha_foto {
   width: 300px;
-  margin-top: 50px ;
+  margin-top: 50px;
 }
 
 #rodape {
@@ -41,6 +41,6 @@ body {
   justify-content: space-around;
 }
 
-.lado-direito, .lado-esquerdo {
+.lado-direito , .lado-esquerdo {
   width: 400px;
 }
