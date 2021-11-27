@@ -30,7 +30,7 @@ body {
 }
 
 #rodape {
-  background-color: orangered;
+  background-color: green
 }
 
 #listas {
@@ -49,8 +49,4 @@ body {
 
 .lado-direito , .lado-esquerdo {
   width: 400px;
-}
-
-table{
-    display: none;
 }
