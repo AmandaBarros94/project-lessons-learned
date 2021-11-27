@@ -1,32 +1,46 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     color: green;
     line-height: 30px;
     font-size: 20px;
-
 }
 
 body {
   background-color: rgb(253, 251, 251);
 }
 
-#cabecalho{
+#cabecalho {
     position:fixed;
     top: 0;
     background-color: orange;
     width: 100vw;
 }
-#minha_foto{
+
+#minha_foto {
     width: 300px;
-     margin-top: 50px ;
+    margin-top: 50px ;
 }
-#rodape{
+
+#rodape {
     background-color: orangered;
 }
-#listas{
+
+#listas {
     margin: 10px;
     padding: 30px;
     border: 2px solid orange;
+    width: 300px;
+}
+
+#main {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.lado-direito, .lado-esquerdo {
+    width: 400px;
 }
