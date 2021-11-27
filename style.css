@@ -38,6 +38,18 @@ a {
   border: 5px solid indianred;
 }
 
+#caixa_da_imagem {
+    display: flex;
+    flex: 1;
+    justify-items: center;
+    margin-top: 50px ;
+}
+
+#caixa_da_tabela {
+    flex-direction: column;
+    padding-left: 45px;
+}
+
 #rodape {
   background-color: green;
   color: aliceblue;
