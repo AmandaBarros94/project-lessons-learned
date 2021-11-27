@@ -1,10 +1,10 @@
 * {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    color: green;
-    line-height: 30px;
-    font-size: 20px;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  line-height: 30px;
+  font-size: 20px;
 }
 
 body {
@@ -12,35 +12,35 @@ body {
 }
 
 #cabecalho {
-    position:fixed;
-    top: 0;
-    background-color: orange;
-    width: 100vw;
+  position:fixed;
+  top: 0;
+  background-color: orange;
+  width: 100vw;
 }
 
 #minha_foto {
-    width: 300px;
-    margin-top: 50px ;
+  width: 300px;
+  margin-top: 50px ;
 }
 
 #rodape {
-    background-color: orangered;
+  background-color: orangered;
 }
 
 #listas {
-    margin: 10px;
-    padding: 30px;
-    border: 2px solid orange;
-    width: 300px;
+  margin: 10px;
+  padding: 30px;
+  border: 2px solid orange;
+  width: 300px;
 }
 
 #main {
-    display: flex;
-    flex: 1;
-    flex-direction: row;
-    justify-content: space-around;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 .lado-direito, .lado-esquerdo {
-    width: 400px;
+  width: 400px;
 }
