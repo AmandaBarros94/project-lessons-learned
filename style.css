@@ -50,10 +50,11 @@ body {
   flex: 1;
   flex-direction: row;
   justify-content: space-around;
+  margin: 50px;
 }
 
 .lado-direito , .lado-esquerdo {
-  width: 400px;
+  width: 550px;
 }
 
 #licoes_a_aprender {
