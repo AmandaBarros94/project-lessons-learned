@@ -28,7 +28,7 @@ a {
   display: flex;
   flex: 1;
   justify-content: space-around;
-  color: black;
+  color: black ;
 }
 
 #minha_foto {
