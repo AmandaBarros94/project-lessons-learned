@@ -16,6 +16,9 @@ body {
   top: 0;
   background-color: orange;
   width: 100vw;
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
 }
 
 #minha_foto {
